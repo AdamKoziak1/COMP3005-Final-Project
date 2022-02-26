@@ -1,5 +1,5 @@
 # COMP3005-Final-Project
-Carleton University - COMP3005 Database Management Systems - Final Project
+Carleton University - COMP3005 Database Management Systems Fall 2021 - Final Project 
 Matthew Hobbs & Adam Koziak
 
 You will need to have Node.js to run this project. First, download all dependencies with npm install. The server can be run in the backend folder with "node server.js" and the web app can be run in the frontend folder with "npm run dev". The website is then visible at localhost:5000.
